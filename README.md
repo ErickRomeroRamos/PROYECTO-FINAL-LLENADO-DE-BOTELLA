@@ -216,7 +216,7 @@ if (!client.connected()) {
 
 ```
 ### AGREGAMOS LAS SIGIENTES LIBRERIAS
- ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/7a886edb-1e1f-4287-89a6-47786444c5a7)
+ ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/07105146-cb58-4dce-bf95-fe09c391c57f)
 ## CONFIGURAMOS LOS BLOQUES DE IN. Y USAMOS JSON Y LA GRAFICA DE DISTANCIA
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/c46d18cb-1271-4123-adb4-30025bcb5323)
 ### instruccion json
@@ -225,6 +225,7 @@ if (!client.connected()) {
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/b2341c00-a47d-4a91-a1ac-a8d0e31ca941)
 ## EVIDENCIA NODE RED
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/69907875-dc5a-4650-9d5d-ef6cf2e7568d)
+# INSTALACION MECANICA Y ELECTRICA DEL LLENADO DE BOTELLLAS AUTOMATICO
 
 
 
