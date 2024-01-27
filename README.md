@@ -216,16 +216,14 @@ if (!client.connected()) {
 
 ```
 ### AGREGAMOS LAS SIGIENTES LIBRERIAS
- 
+ ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/7a886edb-1e1f-4287-89a6-47786444c5a7)
 ## CONFIGURAMOS LOS BLOQUES DE IN. Y USAMOS JSON Y LA GRAFICA DE DISTANCIA
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/c46d18cb-1271-4123-adb4-30025bcb5323)
 ### instruccion json
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/9100688d-02c2-4e87-bbdf-fdc193b1b86e)
 ### intruccion servidor mqqt
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/b2341c00-a47d-4a91-a1ac-a8d0e31ca941)
-
-
-
+## EVIDENCIA NODE RED
 
 
 
