@@ -8,12 +8,20 @@ La Esp32 la utilizamos en un entorno de adquision de datos, lo cual en esta prac
 donde conectaremos por medio a wifi el programa y poder visualizar 
 
 # Material Necesario
-"" Para realizar esta practica necesitas lo siguiente
+## Para realizar esta practica necesitas lo siguiente
 
 WOKWI
+
 Tarjeta ESP 32
+
 HC-SR04 Ultrasonic Distance Sensor
+
 Protobor
+
 Fuente de 12 VDC
 
-Instrucciones
+Bomba sumergible
+
+# Instrucciones
+
+
