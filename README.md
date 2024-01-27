@@ -222,6 +222,10 @@ if (!client.connected()) {
 ### instruccion json
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/9100688d-02c2-4e87-bbdf-fdc193b1b86e)
 ### intruccion servidor mqqt
+![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/b2341c00-a47d-4a91-a1ac-a8d0e31ca941)
+
+
+
 
 
 
