@@ -226,7 +226,13 @@ if (!client.connected()) {
 ## EVIDENCIA NODE RED
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/69907875-dc5a-4650-9d5d-ef6cf2e7568d)
 # INSTALACION MECANICA Y ELECTRICA DEL LLENADO DE BOTELLLAS AUTOMATICO
+## Instrucciones:
+Conexiones físicas
+1. Se realiza la conexión ESP32 al puerto USB del ordenador
+2. ⁠En arduino, en el apartado de herramienta elegimos la siguiente 
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/2559436e-6b34-4cfa-9cf5-1be922cf9eb1)
+![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/3952fd47-9e0f-4ccc-ba1a-ff49a2512d4b)
+
 
 
 
