@@ -232,6 +232,8 @@ Conexiones físicas
 2. ⁠En arduino, en el apartado de herramienta elegimos la siguiente 
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/2559436e-6b34-4cfa-9cf5-1be922cf9eb1)
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/3952fd47-9e0f-4ccc-ba1a-ff49a2512d4b)
+![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/72c7598e-e35a-4786-83af-07961a8292d6)
+
 
 
 
