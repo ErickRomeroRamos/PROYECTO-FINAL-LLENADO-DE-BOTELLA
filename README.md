@@ -229,7 +229,7 @@ if (!client.connected()) {
 ## Instrucciones:
 
 ### Se realiza la conexión ESP32 al puerto USB del ordenador
-
+![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/ef605d4d-e651-4d28-9e6d-85847ad63448)
 ### En arduino, en el apartado de herramienta elegimos la siguiente 
 
 ## Conexiones físicas
