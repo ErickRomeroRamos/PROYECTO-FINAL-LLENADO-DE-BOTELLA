@@ -220,8 +220,9 @@ if (!client.connected()) {
 ## CONFIGURAMOS LOS BLOQUES DE IN. Y USAMOS JSON Y LA GRAFICA DE DISTANCIA
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/c46d18cb-1271-4123-adb4-30025bcb5323)
 ### instruccion json
-
+![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/9100688d-02c2-4e87-bbdf-fdc193b1b86e)
 ### intruccion servidor mqqt
+
 
 
 
