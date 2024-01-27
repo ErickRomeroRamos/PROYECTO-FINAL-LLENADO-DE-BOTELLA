@@ -232,18 +232,10 @@ if (!client.connected()) {
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/ef605d4d-e651-4d28-9e6d-85847ad63448)
 ### En arduino, en el apartado de herramienta elegimos la siguiente 
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/b89e9aaa-af2a-4254-b8fd-38b94e26947d)
+### INSTALAMOS LOS DRIVES DE WIFI Y DEL SENSOR PARA PODER LEER LAS LECTURAS EN LA RED
+![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/3c66ad46-16bb-4e11-a8d0-e90b5c2948a5)
 ## Conexiones físicas
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/2559436e-6b34-4cfa-9cf5-1be922cf9eb1)
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/3952fd47-9e0f-4ccc-ba1a-ff49a2512d4b)
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/72c7598e-e35a-4786-83af-07961a8292d6)
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/b9c0b690-b165-482b-8b2d-5eb45ac19ab3)
-
-
-
-
-
-
-
-
-
-
