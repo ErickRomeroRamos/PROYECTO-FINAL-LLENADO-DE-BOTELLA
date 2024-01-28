@@ -1,5 +1,8 @@
 # PROYECTO-FINAL-LLENADO-DE-BOTELLA
-
+## Integrantes
+-Alejandro Barrera Uribe
+-Erick Romero Ramos
+-Wilber Uriel Valladares Diaz
 ## Este repositorio muestra el llenado de botellas con sensor ultrasonico donde mostraremos paso a paso el modelo.
 ### La máquina más importante de toda la línea de embotellado es, sin lugar a dudas, la llenadora. Es la única máquina que está en contacto directo con el producto acabado y, por tanto, debe garantizar una fiabilidad máxima en términos de higiene y calidad del producto final. Es decir, debe preservar las características del producto durante la fase de llenado y permitir su fácil limpiado o, si está en contacto con productos especialmente sensibles a la contaminación, su esterilización. Durante la fase de llenado, los productos líquidos pueden ser espumosos, densos, cremosos, fluidos, en polvo o granulados.
 
@@ -228,7 +231,6 @@ if (!client.connected()) {
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/69907875-dc5a-4650-9d5d-ef6cf2e7568d)
 # INSTALACION MECANICA Y ELECTRICA DEL LLENADO DE BOTELLLAS AUTOMATICO
 ## Instrucciones:
-
 ### Se realiza la conexión ESP32 al puerto USB del ordenador
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/ef605d4d-e651-4d28-9e6d-85847ad63448)
 ### En arduino, en el apartado de herramienta elegimos la siguiente 
@@ -241,5 +243,5 @@ if (!client.connected()) {
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/72c7598e-e35a-4786-83af-07961a8292d6)
 ![image](https://github.com/ErickRomeroRamos/PROYECTO-FINAL-LLENADO-DE-BOTELLA/assets/153964793/b9c0b690-b165-482b-8b2d-5eb45ac19ab3)
 ## Conclusion
-La finalidad principal de las máquinas embotelladoras o llenadoras de botellas es la de introducir el producto final en el contenedor en el cual será almacenado. Además, debe suministrar en el proceso la cantidad correcta de contenido según las dimensiones del envase
+La finalidad principal de las máquinas embotelladoras o llenadoras de botellas es la de introducir el producto final en el contenedor en el cual será almacenado. Además, debe suministrar en el proceso la cantidad correcta de contenido según las dimensiones del envase.
 
