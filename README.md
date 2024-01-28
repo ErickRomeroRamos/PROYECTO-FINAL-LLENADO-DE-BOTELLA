@@ -1,8 +1,11 @@
 # PROYECTO-FINAL-LLENADO-DE-BOTELLA
 ## Integrantes
 -Alejandro Barrera Uribe
+
 -Erick Romero Ramos
+
 -Wilber Uriel Valladares Diaz
+
 ## Este repositorio muestra el llenado de botellas con sensor ultrasonico donde mostraremos paso a paso el modelo.
 ### La máquina más importante de toda la línea de embotellado es, sin lugar a dudas, la llenadora. Es la única máquina que está en contacto directo con el producto acabado y, por tanto, debe garantizar una fiabilidad máxima en términos de higiene y calidad del producto final. Es decir, debe preservar las características del producto durante la fase de llenado y permitir su fácil limpiado o, si está en contacto con productos especialmente sensibles a la contaminación, su esterilización. Durante la fase de llenado, los productos líquidos pueden ser espumosos, densos, cremosos, fluidos, en polvo o granulados.
 
